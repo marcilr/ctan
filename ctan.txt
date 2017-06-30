@@ -1,0 +1,12 @@
+ctan.txt
+Created Tue Aug  5 11:26:19 AKDT 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+CTAN - Comprehensive TEX Archive Network
+
+
+Links
+=====
+CTAN - Comprehensive TEX Archive Network
+http://www.ctan.org/
